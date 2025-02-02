@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhysicalPersons", "PhysicalPersons\PhysicalPersons.csproj", "{1C5E6068-3A3A-4D22-993F-9EA013005F0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dal", "Dal\Dal.csproj", "{198A6FC3-2162-4C29-8CF5-03C83715D8BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bal", "Bal\Bal.csproj", "{4BE1823D-511F-4DC2-A021-0CA7F66101A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C5E6068-3A3A-4D22-993F-9EA013005F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C5E6068-3A3A-4D22-993F-9EA013005F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C5E6068-3A3A-4D22-993F-9EA013005F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C5E6068-3A3A-4D22-993F-9EA013005F0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{198A6FC3-2162-4C29-8CF5-03C83715D8BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{198A6FC3-2162-4C29-8CF5-03C83715D8BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{198A6FC3-2162-4C29-8CF5-03C83715D8BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{198A6FC3-2162-4C29-8CF5-03C83715D8BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BE1823D-511F-4DC2-A021-0CA7F66101A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BE1823D-511F-4DC2-A021-0CA7F66101A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BE1823D-511F-4DC2-A021-0CA7F66101A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BE1823D-511F-4DC2-A021-0CA7F66101A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
